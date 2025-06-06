@@ -12,8 +12,9 @@
 
 ## DuduClock材料 焊接 组装
 
+![DuduClock文档-img](img/DuduClock-process.jpg)
 ### [DuduClock文档-md](document/duduclock.md)
-### [DuduClock文档-img](img/DuduClock-process.jpg)
+### [DuduClock焊接组装视频](https://www.bilibili.com/video/BV18jTNzaEU4)
 
 ### 外壳模型 [Makeworld模型](https://makerworld.com.cn/zh/models/1295111)
 ### PCB地址 [立创开源DuduClock](https://oshwhub.com/lixiaoming1988/duduclock)
