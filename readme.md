@@ -5,8 +5,8 @@
 
 ### 外壳模型 [Makeworld模型](https://makerworld.com.cn/zh/models/1295111)
 ### PCB地址 [立创开源DuduClock](https://oshwhub.com/lixiaoming1988/duduclock)
-### 固件地址 [固件地址](./Firmware/)
-### 原码地址 [DuduClock_Firmware](https://github.com/leezicai/DuduClock_Firmware)
+### 和风天气生成密钥工具 [Ed25519密钥生成](https://leezicai.github.io/tool/)
+### 原码固件地址 [DuduClock_Firmware](https://github.com/leezicai/DuduClock_Firmware)
 ### 外壳购买闲鱼: 小新数码乐园
 
 ### 复刻DuduClock 嘟嘟天气时钟
