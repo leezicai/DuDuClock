@@ -1,4 +1,4 @@
-# DuduClock 新版固件  
+# DuduClock 新版固件
   和风信息可配置
 
 ## 新固件说明
@@ -6,7 +6,7 @@
 ### 和风天气信息: 全部可配置
 
 ### 代码固件放这里了
-- https://github.com/leezicai/DuduClock_Firmware
+- https://github.com/leezicai/DuduClock_Firmware/releases
 
 ## 和风天气信息创建
 
@@ -19,7 +19,7 @@
 
 ### 添加公钥
 
-### 获取keyid projectid
+### 存储keyid projectid 
 
 ## 刷入固件
 
@@ -28,19 +28,19 @@
 ### 打开
 - https://espressif.github.io/esp-launchpad/
 
-### 点击连接(connect)
-
-### 按键顺序
+### 首次和者连接不稳定需要的按键顺序
 - 按住BOOT
 - 按住RST
 - 松开RST
 - 松开BOOT
+
+### 点击连接(connect)
 
 ### 连接后
 
 ### 0x0 地址 选择固件即可刷入
 
 ### 日志显示启动后, 访问
-- 192.168.0.1
+- 192.168.1.1
 
 ### 输入WiFi城市, 和风天气的数据
