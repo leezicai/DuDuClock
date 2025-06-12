@@ -5,12 +5,12 @@
 
 ## 模型 PCB 代码固件
 
-### [Makeworld模型-DoduClock](https://makerworld.com.cn/zh/models/1295111)
-### [Makeworld模型-DuduClock三角](https://makerworld.com.cn/zh/models/1309028)
-### [Makeworld模型-DuduClock Mini](https://makerworld.com.cn/zh/models/1313903)
-### PCB地址(打不开就是在审核中) [立创开源DuduClock](https://oshwhub.com/lixiaoming1988/duduclock)
-### 原码固件地址 [DuduClock_Firmware](https://github.com/leezicai/DuduClock_Firmware)
-### 成品和外壳购买闲鱼: 小新数码乐园
+#### [Makeworld模型-DoduClock](https://makerworld.com.cn/zh/models/1295111)
+#### [Makeworld模型-DuduClock三角](https://makerworld.com.cn/zh/models/1309028)
+#### [Makeworld模型-DuduClock Mini](https://makerworld.com.cn/zh/models/1313903)
+#### PCB地址(打不开就是在审核中) [立创开源DuduClock](https://oshwhub.com/lixiaoming1988/duduclock)
+#### 原码固件地址 [DuduClock_Firmware](https://github.com/leezicai/DuduClock_Firmware)
+#### 成品和外壳购买闲鱼: 小新数码乐园
 
 ## 一 DuduClock材料 焊接 组装
 
@@ -20,7 +20,7 @@
 ### [DuduClock文档-md](document/duduclock.md)
 ### [DuduClock焊接组装视频](https://www.bilibili.com/video/BV18jTNzaEU4)
 
-## 二 DuduClock刷入新固件, 新固件-和风天气数据可配置
+## 二 DuduClock刷入新固件
 
 #### 固件更新: 和风天气数据可以跟随配网一起配置了
 
