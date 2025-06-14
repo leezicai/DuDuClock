@@ -40,5 +40,5 @@
 ### [DuduClock-Mini-md](document/DuduClock-Mini.md)
 ### [DuduClock-Mini 视频](https://www.bilibili.com/video/BV1T1MAzZEUW/)
 
-### 禁止商用
+### 个人免费, 禁止商用
 #### 购买成功或外壳闲鱼: 小新数码乐园
