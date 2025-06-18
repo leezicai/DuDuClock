@@ -5,8 +5,8 @@
 
 ## 模型 PCB 代码固件
 
-#### [Makeworld模型-DoduClock](https://makerworld.com.cn/zh/models/1295111)
-#### [Makeworld模型-DuduClock三角](https://makerworld.com.cn/zh/models/1309028)
+#### [Makeworld模型-DoduClock-树状支撑](https://makerworld.com.cn/zh/models/1295111)
+#### [Makeworld模型-DuduClock三角-树状支撑](https://makerworld.com.cn/zh/models/1309028)
 #### [Makeworld模型-DuduClock Mini](https://makerworld.com.cn/zh/models/1313903)
 #### PCB地址(打不开就是在审核中) [立创开源DuduClock](https://oshwhub.com/lixiaoming1988/duduclock)
 #### 原码固件地址 [DuduClock_Firmware](https://github.com/leezicai/DuduClock_Firmware)
